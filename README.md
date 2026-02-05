@@ -10,7 +10,8 @@ Hi! I’m Haoxiang Sang (aka “Big Fat Duck”). I’m currently pursuing a sec
 
 Competitions have always been my daily fuel—ACM/ICPC, algorithm training, math contests, and CTF keep me sharp and motivated. These days, I’m particularly excited about LLMs and embodied intelligence, with a strong interest in the intersection of research, engineering, and deployment: turning ideas into systems that actually work.
 
-I’m looking for partners and collaborators worldwide to build challenging, practical, and ambitious things together. If you’re interested, contact me at sanghaoxiang@gmail.com、Blog: ~~http://139.196.163.103/~~、Homepage: ~~https://haoxiang-sang.github.io/~~
+I’m looking for partners and collaborators worldwide to build challenging, practical, and ambitious things together. If you’re interested, contact me at sanghaoxiang@gmail.com
+、Blog: ~~http://139.196.163.103/~~、Homepage: ~~https://haoxiang-sang.github.io/~~
 
 <!--
 **Big-Fat-Duck/Big-Fat-Duck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
